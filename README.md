@@ -29,6 +29,11 @@ Improvements, Etc.
 
 As stated above, this thing is quick-and-dirty. Any improvements are welcome via pull request.
 
+Disclaimer
+----------
+
+I wrote this quickly and poorly. I'm not relying on it, and neither should you.
+
 About
 -----
 
