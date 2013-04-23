@@ -32,7 +32,7 @@ class Notifier
 
 			diff = Diffy::Diff.new(latest, wwdc2012, :allow_empty_diff => true)
 			diff_string = diff.to_s
-			if diff_string.length >= 0 || $test
+			if diff_string.length > 0 || $test
 				fire_alert
 			end
 
