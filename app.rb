@@ -8,7 +8,7 @@ $path << "/"
 
 $path_to_site = "https://developer.apple.com/wwdc"
 
-$test = true
+$test = false
 
 class Notifier
 
